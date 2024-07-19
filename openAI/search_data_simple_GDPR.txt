@@ -1,0 +1,90 @@
+GDPR1:
+	Do you provide the information about the identity and the contact details of the controllers and, where applicable, of the controller's representative?Companies which do not have their seat in the EEA should appoint a representative within the EU. .
+GDPR2:
+	Is the purpose of processing the data identified? .
+GDPR3:
+	Have you identified a lawful basis for processing personal data under the GDPR? If your legal basis is legitimate interest (Article 6(1)(f)), do you define what the legitimate interest pursued by you or by a third party is?.
+GDPR4:
+	If you process special categories of data, do you make it clear? 
+GDPR5:
+	Does the privacy policy outline the personal data collected and stored in connected with the intended purposes for processing?.
+GDPR6:
+	Does the privacy policy outline the retention period for personal data or the criteria for the determination of the data retention period?.
+GDPR7:
+	Does the privacy policy outline the recipients or categories of recepients of personal data? .
+GDPR8:
+	Does the privacy policy indicate when it was last updated or reviewed? How will you inform the data subject about the changes to your policy?.
+GDPR9:
+	Does the policy or any additional policy define cookies processing? .
+GDPR10:
+	Do you allow data subjects to reject cookies that are not necessary? .
+GDPR11:
+	Do you maintain an overarching data protection policy that demonstrates data protection compliance?.
+GDPR12:
+	Is personal data processed lawfully, fairly and in a transparent manner?.
+GDPR13:
+	Is personal data collected for specified, explicit and legitimate purposes, and not further processed in a manner incompatible with those purposes?.
+GDPR14:
+	Do you allow the data subjects to exercise their rights to erasure and rectification of the data? .
+GDPR15:
+	How long do you keep the data and do you do it only for te purposes of processing? .
+GDPR16:
+	Have you clearly identified the purpose(s) of processing personal data and provided these purposes to data subjects? .
+GDPR17:
+	Do you apply appropriate technical and organisational measures to ensure security of personal data? .
+GDPR18:
+	Do you process data revealing racial or ethinic origin, political opinion, religious or philosophical beliefs, trade union membership, genetic data, biometric data, data concerning health, data concerning sex life or sexual orientation?   .
+GDPR19:
+	Have you identified a lawful basis from Article 6(1)and an applicable exception from Article 9(2) allowing you to process such data?.
+GDPR20:
+	Do you indicate the period for which the personal data will be stored and if it is not possible, the criteria to determine that period? Do you indicate what will happen with the data afterwards? .
+GDPR21:
+	Do you provide contact details to the DPO, where applicable? .
+GDPR22:
+	Does the privacy policy outline the data subjects right of access in accordance with Article 15? Does the privacy policy outline how data subjects can exercise this right?.
+GDPR23:
+	Does the privacy policy outline the data subjects right of access in accordance with Article 15?.
+GDPR24:
+	Does the privacy policy outline the right to rectification? Does the privacy policy outline how data subjects can exercise this right?.
+GDPR25:
+	Does the privacy policy outline the right to erasure? Does the privacy policy outline how data subjects can exercise this right?.
+GDPR26:
+	Does the privacy policy outline the right to restriction of processing where the accuracy of personal data is contested? Does the privacy policy outline how data subjects can exercise this right?.
+GDPR27:
+	Does the privacy policy outline the right to restriction of processing where processing is no longer necessary or lawful? Does the privacy policy outline how data subjects can exercise this right?.
+GDPR28:
+	Does the privacy policy indicate that data subjects who have obtained restricion of processing will be informed before restrictions are lifted?.
+GDPR29:
+	Does the privacy policy outline the right to data portability? Does the privacy policy outline how data subjects can exercise this right?.
+GDPR30:
+	Does the privacy policy outline the right to object to personal data processing? Does the privacy policy outline how data subjects can exercise this right?.
+GDPR31:
+	Does the privacy policy outline the right not to be subject to decisions made solely by automated decision making ? Does the privacy policy outline how data subjects can exercise this right?.
+GDPR32:
+	Does the privacy policy indicate existance of automated decision making, including profiling and at least in those cases provide meaningful information about the logic involved, and the significance and envisaged consequences of such processing for the data subject? .
+GDPR33:
+	Does the privacy policy indicate the right to lodge a complaint with a supervisory authority? .
+GDPR34:
+	When applicabe, does your privacy policy indicate whether the provision of personal data is a statutory or contractual requirement, or a requirement necessary to enter into a contract, as well as whether the data subject is obliged to provide the personal data and of the possible consequences of failure to provide such data?.
+GDPR35:
+	When consent is the legal basis for processing, does the privacy policy outline the right to withdraw consent at any time? Does the privacy policy outline how consent can be withdrawn?.
+GDPR36:
+	When consent is the legal basis for processing children's data, does the privacy policy outline that the consent of the holder of parental responsibility is required? .
+GDPR37:
+	Does the privacy policy outline the recipients of data and international transfers? Does the privacy policy inform about the fact that the controller intends to transfer personal data to a third country or international organisation? Does the privacy policy provide the basis for international data transfers? (eg: adequacy decision, appropriate safeguards, standard contractual clauses).
+GDPR38:
+	In the context of international transfers, do you inform about existence or absence of an adequacy decision by the Commission?
+GDPR39:
+	Where personal data is not obtained directly from the data subject, does the privacy policy outline the data sources and if applicable, whether it came from publicly accessible sources?.
+GDPR40:
+	Is the privacy policy provided to data subjects at the time of collection from data subjects or within one month when not obtained from data subjects? .
+GDPR41:
+	Is the privacy policy provided to data subjects priorIs the privacy policy provided to data subjects at the time of collection from data subjects or within one month when not obtained from data subjects?  to further processing when they have not previously been communicated? .
+GDPR42:
+	Is the privacy policy provided in writing using clear, concise and transparent language?.
+GDPR43:
+	Where information on action taken on data subject rights (Article 15-22) cannot be provided within one month of receipt, does the privacy policy inform data subjects of the required extension within one month, include reasons for the delay, and extend delivery no more than two months?.
+GDPR44:
+	Do you provide appropriate safeguards to secure international data transfers? IF so, do you provide the information what kind of? .
+GDPR45:
+	Do you inform the data subjects about data recipients and data transfers? .
